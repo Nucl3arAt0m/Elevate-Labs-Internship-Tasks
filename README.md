@@ -10,7 +10,7 @@ I’m a cybersecurity enthusiast participating in **Elevate Labs’ 1-month inte
 
 Welcome to my portfolio for the **Elevate Labs 1-month cybersecurity internship**, starting **June 23, 2025**. This repository serves as a centralized hub for all my internship tasks, demonstrating my skills in cybersecurity, problem-solving, and documentation.
 
-Each **daily task** is documented in a separate GitHub repository and linked below, showcasing my progress toward becoming a top performer and preparing for a potential full-time role.
+Each **daily task** is documented in a separate GitHub repository and linked below, showcasing my progress toward becoming skilled and proficient in the field of cybersecurity.
 
 ---
 
@@ -18,12 +18,12 @@ Each **daily task** is documented in a separate GitHub repository and linked bel
 
 - **Duration:** 1 month (**June 23, 2025 – July 22, 2025**)
 - **First 15 Days:** Daily tasks to build foundational cybersecurity knowledge
-- **Last 15 Days:** Two major projects to apply practical skills
+- **Last 15 Days:** Major project to apply practical skills
 - **Objective:** Master hands-on skills like:
   - Network scanning  
   - Packet analysis  
   - Risk assessment  
-  - Report documentation
+  - Report documentation and much more
 
 ---
 
@@ -60,8 +60,7 @@ To be updated with project details and repositories once assigned.
 Each daily task repository contains:
 - `README.md`: Task overview, execution steps, and learnings
 - Output files: e.g., `scan_results.txt`, `nmap_capture.pcap`
-- Documentation: `notes.md` for findings, `interview_prep.md` for prep notes
-- Optional Enhancements: automation scripts, screenshots, or diagrams
+- Documentation: `notes.md` for findings, screenshots, or diagrams
 
 > Navigate to the linked repositories above to review specific tasks. This portfolio will be updated **daily** with new tasks and reflections.
 
@@ -70,8 +69,8 @@ Each daily task repository contains:
 ## 📬 Contact
 
 - **GitHub:** [Nucl3arAt0m](https://github.com/Nucl3arAt0m)
-- **Email:** your.email@example.com  
-- **LinkedIn:** *[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)* *(optional)*
+- **Email:** sahilllborse@gmail.com  
+- **LinkedIn:** *[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)*
 
 ---
 
