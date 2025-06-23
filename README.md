@@ -70,7 +70,7 @@ Each daily task repository contains:
 
 - **GitHub:** [Nucl3arAt0m](https://github.com/Nucl3arAt0m)
 - **Email:** sahilllborse@gmail.com  
-- **LinkedIn:** *[Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)*
+- **LinkedIn:** *[Your LinkedIn Profile](https://www.linkedin.com/in/sahillborse/)*
 
 ---
 
