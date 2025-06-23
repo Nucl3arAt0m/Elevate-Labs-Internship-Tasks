@@ -68,15 +68,14 @@ Each daily task repository contains:
 
 ## 📬 Contact
 
-- **GitHub:** [Nucl3arAt0m](https://github.com/Nucl3arAt0m)
-- **Email:** sahilllborse@gmail.com  
-- **LinkedIn:** *(https://www.linkedin.com/in/sahillborse/)*
+- **GitHub:** *[Nucl3arAt0m]*(https://github.com/Nucl3arAt0m)
+- **Email:** *sahilllborse@gmail.com*  
+- **LinkedIn:** *https://www.linkedin.com/in/sahillborse/*
 
 ---
 
 ## 🙏 Acknowledgments
 
 Thank you to **Elevate Labs** for this opportunity to grow in cybersecurity. I’m committed to delivering high-quality work and learning daily to achieve top performer status.
-
 ---
 
