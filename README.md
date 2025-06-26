@@ -33,7 +33,7 @@ Each **daily task** is documented in a separate GitHub repository and linked bel
 |-----|--------------|----------------------------------------------------------|----------------------------------------|------------|
 | 1   | June 23, 2025| Nmap TCP SYN scan, Wireshark analysis, risk assessment   | [Elevate-Labs-Task-1](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-1) | ✅ Completed |
 | 2   | June 24, 2025| Phishing email analysis, PhishTool, Header analysis      | [Elevate-Labs-Task-2](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-2) | ✅ Completed |
-| 3   | June 25, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
+| 3   | June 25, 2025| Vulnerability assessment, Nessus, Risk assessment	| [Elevate-Labs-Task-3](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-3) | ✅ Completed |
 | 4   | June 26, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
 | 5   | June 27, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
 | 6   | June 28, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
