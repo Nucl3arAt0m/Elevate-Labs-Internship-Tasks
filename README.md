@@ -33,19 +33,19 @@ Each **daily task** is documented in a separate GitHub repository and linked bel
 |-----|--------------|----------------------------------------------------------|----------------------------------------|------------|
 | 1   | June 23, 2025| Nmap TCP SYN scan, Wireshark analysis, risk assessment   | [Elevate-Labs-Task-1](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-1) | ✅ Completed |
 | 2   | June 24, 2025| Phishing email analysis, PhishTool, Header analysis      | [Elevate-Labs-Task-2](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-2) | ✅ Completed |
-| 3   | June 25, 2025| Vulnerability assessment, Nessus, Risk assessment	| [Elevate-Labs-Task-3](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-3) | ✅ Completed |
-| 4   | June 26, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
-| 5   | June 27, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
-| 6   | June 28, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
-| 7   | June 29, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
-| 8   | June 30, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
-| 9   | July 1, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 10  | July 2, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 11  | July 3, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 12  | July 4, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 13  | July 5, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 14  | July 6, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 15  | July 7, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
+| 3   | June 26, 2025| Vulnerability assessment, Nessus, Risk assessment	| [Elevate-Labs-Task-3](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-3) | ✅ Completed |
+| 4   | June 27, 2025| Configure and test firewall rules using UFW		| [Elevate-Labs-Task-4](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-4) | ✅ Completed |
+| 5   | June 28, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
+| 6   | June 29, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
+| 7   | June 30, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
+| 8   | July 1, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
+| 9   | July 2, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
+| 10  | July 3, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
+| 11  | July 4, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
+| 12  | July 5, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
+| 13  | July 6, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
+| 14  | July 7, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
+| 15  | July 8, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
 
 ---
 
