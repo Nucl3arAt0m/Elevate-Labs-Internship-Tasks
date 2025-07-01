@@ -35,9 +35,9 @@ Each **daily task** is documented in a separate GitHub repository and linked bel
 | 2   | June 24, 2025| Phishing email analysis, PhishTool, Header analysis      | [Elevate-Labs-Task-2](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-2) | ✅ Completed |
 | 3   | June 26, 2025| Vulnerability assessment, Nessus, Risk assessment	| [Elevate-Labs-Task-3](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-3) | ✅ Completed |
 | 4   | June 27, 2025| Configure and test firewall rules using UFW		| [Elevate-Labs-Task-4](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-4) | ✅ Completed |
-| 5   | June 28, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
-| 6   | June 29, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
-| 7   | June 30, 2025| TBD                                                      | TBD                                    | ⏳ Pending  |
+| 4   | June 30, 2025| Network traffic analysis, Wireshark			| [Elevate-Labs-Task-5](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-5) | ✅ Completed |
+| 4   | July 1, 2025 | Network traffic analysis, Wireshark			| [Elevate-Labs-Task-5](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-5) | ✅ Completed |
+| 7   | July 2, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
 | 8   | July 1, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
 | 9   | July 2, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
 | 10  | July 3, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
