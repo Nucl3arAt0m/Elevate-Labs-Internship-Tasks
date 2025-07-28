@@ -43,8 +43,9 @@ Each **daily task** is documented in a separate GitHub repository and linked bel
 ---
 
 ## 🚀 Projects
+  #### [Projects Link](https://github.com/Nucl3arAt0m/Elevate-Labs-Final-Projects)
   #### Project 1 : Cyber Threat Intelligence Dashboard
-  #### Project 2 : Web apllication Vulnerability Scanner | [Project Link](https://github.com/Nucl3arAt0m/Elevate-Labs-Final-Projects/vuln_scanner)
+  #### Project 2 : Web apllication Vulnerability Scanner
 ---
 
 ## 📂 How to Review
