@@ -29,30 +29,22 @@ Each **daily task** is documented in a separate GitHub repository and linked bel
 
 ## ✅ Daily Tasks
 
-| Day | Date         | Task Description                                         | Repository Link                        | Status     |
-|-----|--------------|----------------------------------------------------------|----------------------------------------|------------|
-| 1   | June 23, 2025| Nmap TCP SYN scan, Wireshark analysis, risk assessment   | [Elevate-Labs-Task-1](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-1) | ✅ Completed |
-| 2   | June 24, 2025| Phishing email analysis, PhishTool, Header analysis      | [Elevate-Labs-Task-2](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-2) | ✅ Completed |
-| 3   | June 26, 2025| Vulnerability assessment, Nessus, Risk assessment	| [Elevate-Labs-Task-3](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-3) | ✅ Completed |
-| 4   | June 27, 2025| Configure and test firewall rules using UFW		| [Elevate-Labs-Task-4](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-4) | ✅ Completed |
-| 4   | June 30, 2025| Network traffic analysis, Wireshark			| [Elevate-Labs-Task-5](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-5) | ✅ Completed |
-| 4   | July 1, 2025 | Password strength check, best practices			| [Elevate-Labs-Task-6](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-6) | ✅ Completed |
-| 4   | July 3, 2025 | Browser Extension Security				| [Elevate-Labs-Task-7](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-7) | ✅ Completed |
-| 4   | July 4, 2025 | VPN setup, Network Security, Cryptography		| [Elevate-Labs-Task-8](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-8) | ✅ Completed |
-| 9   | July 7, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 10  | July 8, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 11  | July 9, 2025 | TBD                                                      | TBD                                    | ⏳ Pending  |
-| 12  | July 10, 2025 | TBD                                                     | TBD                                    | ⏳ Pending  |
-| 13  | July 11, 2025 | TBD                                                     | TBD                                    | ⏳ Pending  |
-| 14  | July 12, 2025 | TBD                                                     | TBD                                    | ⏳ Pending  |
-| 15  | July 13, 2025 | TBD                                                     | TBD                                    | ⏳ Pending  |
+| Date         | Task Description                                         | Repository Link                        | Status     |
+|--------------|----------------------------------------------------------|----------------------------------------|------------|
+| June 23, 2025| Nmap TCP SYN scan, Wireshark analysis, risk assessment   | [Elevate-Labs-Task-1](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-1) | ✅ Completed |
+| June 24, 2025| Phishing email analysis, PhishTool, Header analysis      | [Elevate-Labs-Task-2](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-2) | ✅ Completed |
+| June 26, 2025| Vulnerability assessment, Nessus, Risk assessment	      | [Elevate-Labs-Task-3](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-3) | ✅ Completed |
+| June 27, 2025| Configure and test firewall rules using UFW		          | [Elevate-Labs-Task-4](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-4) | ✅ Completed |
+| June 30, 2025| Network traffic analysis, Wireshark			                | [Elevate-Labs-Task-5](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-5) | ✅ Completed |
+| July 1, 2025 | Password strength check, best practices		            	| [Elevate-Labs-Task-6](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-6) | ✅ Completed |
+| July 3, 2025 | Browser Extension Security				                        | [Elevate-Labs-Task-7](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-7) | ✅ Completed |
+| July 4, 2025 | VPN setup, Network Security, Cryptography		            | [Elevate-Labs-Task-8](https://github.com/Nucl3arAt0m/Elevate-Labs-Task-8) | ✅ Completed |
 
 ---
 
-## 🚀 Major Projects (Days 16–30)
-
-To be updated with project details and repositories once assigned.
-
+## 🚀 Projects
+  #### Project 1 : Cyber Threat Intelligence Dashboard
+  #### Project 2 : Web apllication Vulnerability Scanner | [Project Link](https://github.com/Nucl3arAt0m/Elevate-Labs-Final-Projects/vuln_scanner)
 ---
 
 ## 📂 How to Review
